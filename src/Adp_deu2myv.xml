@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="deu"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Pr">anstatt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">таркас</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="G">anstatt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="G">эземс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="G">anstelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="G">эземс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D,A">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D,A">ёно</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">кедьс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">кедьсэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">aus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="D">кедьстэ</t> <t pos="Po" gov="D">эйстэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">bei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="D">кедьстэ</t> <t pos="Po" gov="D">кедьсэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">bis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">эйс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">bis zu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">эйс</t> </tg> </mg> </e>
+<e> <lg> <l pos="">der Länge nach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">кувалт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">durch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="A">пачк</t> <t pos="Po" gov="A">эзга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">für</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="A">кис</t> <t pos="Po" gov="A">туртов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">hinter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">удало</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">hinter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">удалов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">кедьс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">кедьсэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="A">пелев</t> <t pos="Po" gov="A">эйс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">эйсэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">ютков</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">länges</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">кувалт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">längs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">кувалт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">nach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">ютков</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">querdurch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">нучк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">querüber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">нучк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">statt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">таркас</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="G">statt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="G">эземс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">um</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="A">перька</t> <t pos="Po" gov="A">экшсэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="">um … herum:</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">перька</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">unter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">алга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">unter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">юткова</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">von</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="D">кедьстэ</t> <t pos="Po" gov="D">пельде</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">von etwas zu etwas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">эзда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">von jemandem zu jemandem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">эзда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="G">wegen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="G">кувалт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">zu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">эйс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr">zwischen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">юткова</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D,A">über</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D,A">ёно</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">über</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">кувалт</t> </tg> </mg> </e>
+</r>

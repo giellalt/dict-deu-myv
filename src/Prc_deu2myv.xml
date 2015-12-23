@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="deu"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+
+
+<e> <lg> <l pos="A">Lack//</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лакировазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">Schriftkundige</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="N">сёрмас содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">ankladend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">чумондыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">arbeitende</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">важодиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">aufgeregt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Prc">талакадозь</t> <t pos="Prc">талнозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">ausgeschnitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">керсезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">aushaltend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">цидярдыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">beiwohnend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аштиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">bekannt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">содазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">berühmt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">содазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">beschützend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">защитиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">bestimmt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">содазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">bestürzt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">betroffen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">beunruhigt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талнозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">beweinend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лайшиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">blitzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сыреждиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">denkend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">арсиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">eintretend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">совиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">erfahren</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">erregt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">etwas machend [bauend]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">теиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">fassungslos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">fest</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">цидярдыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">fröhlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">киштезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">funkelnd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Prc">сияждыця</t> <t pos="Prc">сыреждиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">färbend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">артыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">gebildeter Mensch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="N">сёрмас содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">gemacht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">теезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">gesammelt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">пурнавт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">geschaffen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">теезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">geschickt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">маштозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">geschwollen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">таргозезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">gespalten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лазозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">gesprächig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">басиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">getan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">теезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">gewandt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">маштозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">glänzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сияждыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">heiter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">киштезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">heizend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">уштыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">helfend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">пособиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">helfende</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лездыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">kanz. einlaufend [eingehend]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">совиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">kaufend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">рамиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">krank</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сэредиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kundig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">kurzgefast</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">киртязь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">lackiert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лакировазь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lax</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">рипакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">leidend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сэредиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lese-und schreibkundig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сёрмас содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">leuchtend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сыреждиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">liegend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аштиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">lustig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">киштезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">malend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">артыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">math. einspringend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">совиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mit Sachkenntnis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Ger">маштозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mit Sachverständnis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Ger">маштозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">mähend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">ледиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">nein, nicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">арась</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">nervös</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талнозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">nicht standhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аймельдиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">nähend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">стыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">pachtend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">арендовиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">part theat. aufführend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аравтыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">partандыця</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">андый</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">pflügend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сокиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">phys. stabil</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">цидярдыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">rauchend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">таргиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">redselig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">басиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">sachverständig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Ger">маштозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">schlafend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">удыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schlaff</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">рипакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">schluchzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">авардиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">schneidend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">ледиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">schreibend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сёрмадыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schriftkundig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сёрмас содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">schweigend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">каштмолиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schweigsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Prc">каштмолиця</t> <t pos="Prc">чатьмониця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">schwimmend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">уиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">sitzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аштиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">skandalierend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">скандалиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">spielend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">налксиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">sprühend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сыреждиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">standhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">цидярдыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Ger">stehend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Ger">стядо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">stehend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аштиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">sterbend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">кулыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">still</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">чатьмониця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">strahlend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">сияждыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">tanzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">киштезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">teilend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">явовтыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">umgsp. übertrieben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">салтозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">unartiges [verzogenes] Kind</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="N">баловиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">unsicher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">аймельдиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">unterhaltend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">басиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">vergessend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">стувтыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">vergeßlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">стувтыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verkaufend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">микшниця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verkürzt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">киртязь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">versalzt [versalzen]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">салтозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verschweigen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">каштмолиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">verschwiegen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">чатьмониця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verteidigend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">защитиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">vertrocknet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">коськезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verwelkt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Prc">рипакадозь</t> <t pos="Prc">сормсезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verwirrt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">талакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verwöhnt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">анелькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">verzinnend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лудиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">von браковамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">браковиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">von ватксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">ваткань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">vorbeigehend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">ютыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">weinend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">авардиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">welk</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">рипакадозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">wissend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">содыця</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">wortkarg</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Prc">каштмолиця</t> <t pos="Prc">чатьмониця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">wählend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">кочкиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zerdrückt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">мерьказь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zerkleinert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">керсезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zerknittert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">мерьказь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zerknüllt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">мерьказь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zerschnitten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">керсезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zurückgeblieben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">кадовиця</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">zweigeteilt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">лазозь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">überlegend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Prc">арсиця</t> </tg> </mg> </e>
+</r>

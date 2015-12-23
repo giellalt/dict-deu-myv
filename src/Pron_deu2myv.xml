@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="deu"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+<e> <lg> <l pos="Pron">Ihr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">Sie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">весе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">alles</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">весе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">den</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">dich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эсеть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">diese</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">нетне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">diesen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">dir</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">теть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">du</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">du allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамот</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">er</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">er allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамонзо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">es</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">es allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамонзо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">euch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">тенк</t> <t pos="Pron">эсенк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">für dich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эськат</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">für euch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эськанк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">für mich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эськан</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">für sich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">эськанзо</t> <t pos="Pron">эськаст</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">für uns</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эськанок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">мон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ich allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ich selbst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">монсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ihm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тензэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ihnen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тенст</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ihr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">тензэ</t> <t pos="Pron">эсест</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ihr allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамонк</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">irgendein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">та-кодамо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">irgendein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">мезень-бути</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">jeder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эрьва</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jemand;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">та-ки</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jene</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">нетне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jener</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">секе</t> <t pos="Pron">тона</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эсень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mir</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">тень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">selber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">сонсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">selbst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">сонсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эсензэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">сон</t> <t pos="Pron">сынь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sie allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">ськамонзо</t> <t pos="Pron">ськамост</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">uns</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">тенек</t> <t pos="Pron">эсенек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">unser</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">минек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">von jeglicher Art</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эрьва</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">wer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">кие</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">wir</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">минь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">wir allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамонок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">wir selbst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">минсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">über alle;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">веседе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">über alles (alle)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">весемеде</t> </tg> </mg> </e>
+</r>
