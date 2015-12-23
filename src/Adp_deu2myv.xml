@@ -14,6 +14,8 @@
 <e> <lg> <l pos="Pr" gov="D,A">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D,A">ёно</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">кедьс</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="D">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">кедьсэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">лангс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">auf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">лангсо</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="D">aus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="D">кедьстэ</t> <t pos="Po" gov="D">эйстэ</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="D">bei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="D">кедьстэ</t> <t pos="Po" gov="D">кедьсэ</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">bis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">эйс</t> </tg> </mg> </e>
@@ -21,6 +23,7 @@
 <e> <lg> <l pos="">der Länge nach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">кувалт</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">durch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="A">пачк</t> <t pos="Po" gov="A">эзга</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">für</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Po" gov="A">кис</t> <t pos="Po" gov="A">туртов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="A">gegen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">пелев</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="D">hinter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">удало</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">hinter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">удалов</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">кедьс</t> </tg> </mg> </e>
@@ -30,6 +33,7 @@
 <e> <lg> <l pos="Pr" gov="A">in</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">ютков</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr">länges</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">кувалт</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr">längs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po">кувалт</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pr" gov="D">mit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">марто</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="D">nach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="D">ютков</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">querdurch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">нучк</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pr" gov="A">querüber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Po" gov="A">нучк</t> </tg> </mg> </e>

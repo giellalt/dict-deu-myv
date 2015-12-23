@@ -8,8 +8,9 @@
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
-<e> <lg> <l pos="CC">aber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="CC">а</t> <t pos="CC">но</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">aber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="CC">а</t> <t pos="CC">ды</t> <t pos="CC">но</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">oder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="CC">ли</t> <t pos="CC">эли</t> </tg> </mg> </e>
 <e> <lg> <l pos="CC">sondern (nach der Negation)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="CC">а</t> <t pos="CC">но</t> </tg> </mg> </e>
-<e> <lg> <l pos="CC">und</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="CC">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="CC">und</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="CC">а</t> <t pos="CC">ды</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">wircklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="CC">эли</t> </tg> </mg> </e>
 </r>

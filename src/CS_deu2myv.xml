@@ -8,8 +8,8 @@
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
-<e> <lg> <l pos="CS">damit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="CS">штобу</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">daß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="CS">штобу</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">ob</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="CS">ли</t> </tg> </mg> </e>
-<e> <lg> <l pos="CS">obgleich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="CS">хоть</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">damit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="CS">штобу</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">daß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="CS">штобу</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">ob</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="CS">ли</t> </tg> </mg> </e>
+<e> <lg> <l pos="CS">obgleich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="CS">хоть</t> </tg> </mg> </e>
 </r>

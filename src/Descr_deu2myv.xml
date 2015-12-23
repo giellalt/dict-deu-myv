@@ -9,19 +9,19 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
 
-<e> <lg> <l pos="Adv">bisweilen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">юв-яв</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hin und wieder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">юв-яв</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">linkisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авцор-увцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Gefräßigkeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">ангор-унгор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Lärm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">ацор-уцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nachlässig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авол-увол</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">packend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авцор-увцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">plump</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авцор-увцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">plump, linkisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">ацор-уцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schnell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авцор-увцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ungeschikt;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авцор-увцор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von Zeit zu Zeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">юв-яв</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">watschelnd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">авол-увол</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zeitweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">юв-яв</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zuweilen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t Contlex="" pos="Descr">юв-яв</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">bisweilen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">юв-яв</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">hin und wieder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">юв-яв</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">linkisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авцор-увцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mit Gefräßigkeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">ангор-унгор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mit Lärm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">ацор-уцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">nachlässig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авол-увол</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">packend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авцор-увцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">plump</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авцор-увцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">plump, linkisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">ацор-уцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">schnell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авцор-увцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ungeschikt;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авцор-увцор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">von Zeit zu Zeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">юв-яв</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">watschelnd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">авол-увол</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">zeitweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">юв-яв</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">zuweilen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Descr">юв-яв</t> </tg> </mg> </e>
 </r>

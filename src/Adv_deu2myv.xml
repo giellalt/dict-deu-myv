@@ -9,6 +9,8 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
 
+<e> <lg> <l pos="Adv">:</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">петерь-петерь</t> <t pos="Adv">письверек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">Sitz//</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">озадо</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">Tag für Tag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чиде чис</t> </tg> </mg> </e>
 <e> <lg> <l pos="">Weisenkind</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ававтомо</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">abends</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чокшне ланго</t> </tg> </mg> </e>
@@ -538,9 +540,8 @@
 <e> <lg> <l pos="Adv">wieder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мекев</t> <t pos="Adv">одов</t> <t pos="Adv">таго</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">wild</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">дикойстэ</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">winters</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тельня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wirklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">алкукс</t> <t pos="Adv">прок</t> </tg> </mg><mg> <tg xml:lang="myv"> <t pos="Adv">эли</t> </tg> </mg> <mg> <tg xml:lang="myv"> <t pos="Adv">ара</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wahrhaftig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ара</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tatsächlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ара</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">wirklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">алкукс</t> <t pos="Adv">прок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">wirklich? wahrhaftig? tatsächlich?</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ара</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">wirtschaftlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">экономна</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">woher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">коволдо?</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">woher?</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">коволдо?</t> </tg> </mg> </e>
