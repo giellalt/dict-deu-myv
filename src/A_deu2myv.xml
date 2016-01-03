@@ -1245,7 +1245,8 @@
 <e> <lg> <l pos="A">eisern</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">кшнинь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">eisig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">эень</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">eiskalt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">эень</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">eit(e)rig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нулков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">eitrig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нулков</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">eiterig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нулков</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">eiterich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нулков</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ekelerregend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нильгедевкс</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ekelhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нильгедевкс</t> </tg> </mg> </e>
@@ -1704,13 +1705,13 @@
 <e> <lg> <l pos="A">jugoslawisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">югославиянь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">jung</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">одонь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">juristisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">юридической</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">jüngst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">меельце</t> <t pos="A">улконь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">jüngst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">весемеде од</t><t pos="A">меельце</t> <t pos="A">улконь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kahl</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">голой</t> <t pos="A">лысой</t><t pos="A">штадо</t> <t pos="A">штапо</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kahlköpfig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">лысой</t> <t pos="A">плешивой</t> <t pos="A">штапоконя</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kalendarisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">календарной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kalihaltig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">калийной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kalkhaltig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">извёсткань</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kalt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тарькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kalt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">кельме</t><t pos="A">тарькс</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kampflustig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">воинственной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kapitalistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">капитализмань</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kapriziös</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">аксун</t> <t pos="A">капризной</t> </tg> </mg> </e>
@@ -1724,8 +1725,8 @@
 <e> <lg> <l pos="A">kategorisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">категорической</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">katholisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">католикень</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kattunen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">ситцань</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">katzenartig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">каткань</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">katzenähnlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">каткань</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">katzenartig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">псакань кондямо</t><t pos="A">каткань кондямо</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">katzenähnlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">псакань кондямо</t><t pos="A">каткань кондямо</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaukasisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">кавказонь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaum warm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">лембине</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">keimfrei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">стерильной</t> </tg> </mg> </e>
@@ -1764,18 +1765,17 @@
 <e> <lg> <l pos="A">kolossal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">грандиозной</t> <t pos="A">колоссальной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">komfortabel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">комфортабельной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">komisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">забавной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kommpakt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">плотна</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kompakt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сплошной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kompakt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">плотна</t><t pos="A">сплошной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kompetent</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">компетентной</t> <t pos="A">правомочной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">komplex</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">комплексэнь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kompliziert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">мудреной</t> <t pos="A">мудреной</t> <t pos="A">сложной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">konfessionell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">религиозной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">konkret</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">конкретной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">konservativ [-va-]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">консервативной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">konservativ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">консервативной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">konspirativ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">конспиративной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">konstruktiv [-v-]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">конструктивной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">konstruktiv</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">конструктивной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">konsultativ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">консультационной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">konterrevolutionär [-vo-]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">контрреволюционной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">konterrevolutionär</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">контрреволюционной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kontinental</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">континентальной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">konventionell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">условной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">konzentriert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">концентрированной</t> </tg> </mg> </e>
@@ -1784,7 +1784,8 @@
 <e> <lg> <l pos="A">korrekt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">корректной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kostbar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">питнев</t> <t pos="A">питней</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kostspielig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">питнев</t> <t pos="A">питней</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kraftlos [entkräftet]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">илыктеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kraftlos</l><variants><l_syn>entkräftet</l_syn></variants> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">илыктеме</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">entkräftet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">илыктеме</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">krausköpfig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">пондакш</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kreidehaltig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">поров</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kreisförmig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">кеверь</t> <t pos="A">кругловой</t> </tg> </mg> </e>
@@ -1798,13 +1799,12 @@
 <e> <lg> <l pos="A">krumm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">кичкере</t> <t pos="A">кривой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kräftig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">одёр</t> <t pos="A">таза</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kräftig (über den Menschen)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">шуморкс</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kräftig gesund</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">здоров</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kräftig gesund</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">шумбра</t> <t pos="A">здоров</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kränkend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">обидной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">krätzig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тазов</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kröpfig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тутмав</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kubisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">кубической</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kultiviert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">культурной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kultiviert [-vi:rt]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">образованной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kultiviert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">культурной</t> </tg> </mg><mg> <tg xml:lang="myv"> <t pos="A">образованной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kulturell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">культурной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kummervoll</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">лужаня</t> <t pos="A">нувара</t><t pos="A">нусманя</t> <t pos="A">рисксэв</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kurz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">калява</t> <t pos="A">кирка</t><t pos="A">нурька</t> <t pos="A">нурькине</t> </tg> </mg> </e>
@@ -1868,7 +1868,7 @@
 <e> <lg> <l pos="A">liebevoll</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">вечкиця</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">lila</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сиреневой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">link</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">керш</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">linqui. Sonor-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сонорной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">Sonor-</l> <stg> <st/> </stg> </lg> <mg><field>lingui.</field> <tg xml:lang="myv"> <t pos="A">сонорной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">linquistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">лингвистической</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">liquidatorisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">ликвидаторонь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">listig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">дошлой</t> <t pos="A">ёжов</t> <t pos="A">хитрой</t> </tg> </mg> </e>
@@ -1900,16 +1900,17 @@
 <e> <lg> <l pos="A">marktschreierisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">рекламной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">marmorn</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">мраморонь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">marxistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">марксизмань</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">marxistisch- leninistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">марксизмань-ленинизмень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">marxistisch-leninistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">марксизмань-ленинизмень</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">materialistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">материалистической</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">materiell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">веществань</t> <t pos="A">материальной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">materi|ell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">материальной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">math. schiefwink(e)lig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">косоугольной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">materiell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">материальной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schiefwinklig</l> <stg> <st/> </stg> </lg> <mg><field>math.</field> <tg xml:lang="myv"> <t pos="A">косоугольной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schiefwinkelig</l> <stg> <st/> </stg> </lg> <mg><field>math.</field> <tg xml:lang="myv"> <t pos="A">косоугольной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">mathematisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">математикань</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">maßgebend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">авторитетной</t> <t pos="A">компетентной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">mechanisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">механикань</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">med. Herz-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">седеень</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">med. gipsen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">гипсэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">Herz-</l> <stg> <st/> </stg> </lg> <mg><field>med.</field> <tg xml:lang="myv"> <t pos="A">седеень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">gipsen</l> <stg> <st/> </stg> </lg> <mg><field>med.</field> <tg xml:lang="myv"> <t pos="A">гипсэнь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">melodisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">моравикс</t> <t pos="A">певчей</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">menschenfreundlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">гуманной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">menschewistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">меньшевикень</t> </tg> </mg> </e>
@@ -1923,8 +1924,8 @@
 <e> <lg> <l pos="A">meuchlerisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">злодейской</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">mexikanisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">мексикань</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">milchig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">ловсонь</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">milit weittragend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">дальнобойной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">milit. Panzer-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">танковой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">weittragend</l> <stg> <st/> </stg> </lg> <mg><field>milit.</field> <tg xml:lang="myv"> <t pos="A">дальнобойной</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">Panzer-</l> <stg> <st/> </stg> </lg> <mg><field>milit.</field> <tg xml:lang="myv"> <t pos="A">танковой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">militärisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">военной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">mineralogisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">минералогиянь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ministeriell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">министрань</t> </tg> </mg> </e>
@@ -1956,9 +1957,9 @@
 <e> <lg> <l pos="A">monopolistisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">монополиянь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">moosig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">нупонев</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">moralisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">моралень</t> <t pos="A">нравственной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">mordwinisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">мордовской</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">mordwinisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">эрзянь-мокшонь</t><t pos="A">мокшонь-эрзянь</t><t pos="A">мордовской</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">morgend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">валскень</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">morgendlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">валскень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">morgendlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">валскень</t><t pos="A">эрьва валскень</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">morphologisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">морфологиянь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">motorisiert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">моторизованной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">munter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">бастун</t> <t pos="A">бодрой</t> <t pos="A">эряза</t> </tg> </mg> </e>
@@ -2042,7 +2043,8 @@
 <e> <lg> <l pos="A">offenherzig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">виде седей</t> </tg> </mg> </e>
 <e> <lg> <l pos="">offiziell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">официальной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">offiziös</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">официозной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">oft(malig)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сееде</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сееде</t><t pos="A">сеедьстэнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oftmalig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сееде</t><t pos="A">сеедьстэнь</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ohne Familie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">юрттомо</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ohne Gesetz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">законтомо</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ohne Regung</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">куш-каш</t> </tg> </mg> </e>
@@ -2157,11 +2159,9 @@
 <e> <lg> <l pos="A">regulär</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">регулярной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rehbraun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">саврасой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rehfarbig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">саврасой</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">reich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">таза</t> </tg> </mg> </e>
-<e> <lg> <l pos="A" gov="an D">reich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A" gov="an D">ярмаков</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">reich (an D)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">козяв</t> </tg> </mg> </e>
+<e> <lg> <l pos="A" gov="an D">reich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">сюпав</t> <t pos="A" gov="an D">ярмаков</t><t pos="A">козяв</t> </tg> </mg> <mg> <tg xml:lang="myv"> <t pos="A">таза</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">reif</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">кенерезь</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">rein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">ашо</t> <t pos="A">ванькс</t><t pos="A">чистой</t> <t pos="A">чистой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">ванькс</t><t pos="A">чистой</t> <t pos="A">ашо</t></tg> </mg> </e>
 <e> <lg> <l pos="A">reinlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">вадяша</t> <t pos="A">опрятной</t> <t pos="A">чистой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">reizlos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тупавкс-тапавкс</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">reklamenhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">рекламной</t> </tg> </mg> </e>
@@ -2185,22 +2185,22 @@
 <e> <lg> <l pos="A">rostbraun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">чеменев</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rostig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">чеменев</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rot</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">якстере</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">rothaarig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тюжа</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rothaarig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">якстере пона</t><t pos="A">тюжа</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rubinfarbig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">рубиновой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rubinrot</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">рубиновой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ruhig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">куш-каш</t> <t pos="A">ровной</t><t pos="A">спокойной</t> <t pos="A">таймаза</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ruhmbedeckt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">знаменитой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ruhmreich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">знаменитой</t> <t pos="A">славной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rumänisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">румынэнь</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">rund</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">кеверь</t> <t pos="A">кругловой</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">russisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">россиянь</t> <t pos="A">рузонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rund</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">кеверь</t> <t pos="A">кирксала</t><t pos="A">кругловой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">russisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">рузонь</t><t pos="A">россиянь</t>  </tg> </mg> </e>
 <e> <lg> <l pos="A">räsonabel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">резонной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">räudig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тазов</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">röchelnd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">корсяня</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">römisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">римень</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">römisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">римень</t><t pos="A">римсэ</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rückschrittlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">реакционной</t> <t pos="A">регрессивной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rücksichtsvoll</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">деликатной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">rückständig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">ташто</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">rückständig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">ташто</t><t pos="A">тюштяпингень</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">rührselig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">сентиментальной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">sabberig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">слюняв</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">sachkundig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">компетентной</t> </tg> </mg> </e>
@@ -2222,9 +2222,9 @@
 <e> <lg> <l pos="A">sauer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">бизнянь</t> <t pos="A">ризаня</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schadenbringend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">вредна</t> <t pos="A">зыянов</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">тансттеме</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">scharf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">меткой</t> <t pos="A">пилюкш</t> <t pos="A">пшти</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">scharf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">пшти</t><t pos="A">пилюкш</t><t pos="A">меткой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">scharfsichtig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">прозорливой</t> <t pos="A">чарькодькс</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">scharfsinnig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">сметливой</t> <t pos="A">чарькодькс</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">scharfsinnig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">чарькодькс</t><t pos="A">сметливой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schartig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">аржов</t> <t pos="A">пеев</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">scheckig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">пегой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">scheel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">косой</t> </tg> </mg> </e>
@@ -2236,14 +2236,14 @@
 <e> <lg> <l pos="A">schielend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">косой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schiffbar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">судоходной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schimpflich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">обидной</t> <t pos="A">позорной</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">schlaff</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">вялой</t> <t pos="A">лавшо</t><t pos="A">нувара</t> <t pos="A">рипаня</t> <t pos="A">слабой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schlaff</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">лавшо</t><t pos="A">нувара</t> <t pos="A">рипаня</t> <t pos="A">слабой</t><t pos="A">вялой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlagend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">меткой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlagfertig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">бойка</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlamkotig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">рудазов</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlammig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">илэв</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">schlank</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">ёлканя</t> <t pos="A">стройной</t> <t pos="A">чова</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schlank</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">ёлганя</t> <t pos="A">стройной</t> <t pos="A">чова</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlank [dünn] (über Mädchen)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">човине</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">schlau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">дошлой</t> <t pos="A">ёжов</t> <t pos="A">хитрой</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">schlau</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">ёжов</t><t pos="A">келаз</t><t pos="A">дошлой</t> <t pos="A">хитрой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlecht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">амолиця</t> <t pos="A">беряжа</t><t pos="A">берянь</t> <t pos="A">каладо</t><t pos="A">кальдяв</t> <t pos="A">камажа</t><t pos="A">лавшо</t> <t pos="A">ненастной</t> <t pos="A">скверной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schleimig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">слизистой</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">schlimm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="A">беряжа</t> <t pos="A">кальдяв</t> <t pos="A">скверной</t> </tg> </mg> </e>
