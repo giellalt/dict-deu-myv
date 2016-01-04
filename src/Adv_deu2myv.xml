@@ -1,587 +1,7073 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="deu"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-   You are free to copy, distribute and adapt the work, as long as you always give
-   proper attribution using the attribution text below.
-   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
-   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
-   This is NOT a fully styled and published dictionary.
-   As such it can and will contain unfinished entries, unpublished entries, 
-   entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
 
-<e> <lg> <l pos="Adv">:</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">петерь-петерь</t> <t pos="Adv">письверек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">Sitz//</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">озадо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">Tag für Tag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чиде чис</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">abends</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чокшне ланго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">abermals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">одов</t> <t pos="Adv">омбонь кирда</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">absichtlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нарочна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">absolut,</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ровна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">abstrakt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">абстрактнойстэ</t> <t pos="Adv">отвлечённа</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">abwechselnd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">човор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">achtsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">внимательна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">alle zusammen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мирём</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вейкинестэ</t> <t pos="Adv">весемезэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">allmählich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламонь-аламонь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">allseitig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">домкасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">als</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ладсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">als Externer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">экстерна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">als ob</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">прок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">als wenn</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">прок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">am Abend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чокшне ланго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">am Februar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">февральстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">am Tage</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чить</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">amtlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">официальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">an einem bestimmten Tag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чистэнзэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">an jener Stelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тува</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">analog</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">истямо (истят)</t> <t pos="Adv">ладсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">anders</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">лиякс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">anfangs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">васня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">annähernd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">малав</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">astig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сардов-сюрдов</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истя жо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf den Knien</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пульзядо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf der Straße</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ушосо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf die linke Seite</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ингельде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf diese Weise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf jede Art</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">секе ладсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf kurze Zeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламнес</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf lange (Zeit)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">талайс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auf lettisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">латышекс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">aufmersam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">внимательна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">aufs neue</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">одов</t> <t pos="Adv">таго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">aus (D)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икельде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">aus irgendeinem Grund</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мекс-бути</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">aus unbestimmten Gründen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мекс-бути</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">aus vollem Halse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">верьгавайгельть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ausdruckslos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">безобразнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ausgezeichnet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">отлична</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ausreichend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">байтяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">auswendig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">наизусть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">autoritativ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">авторитетнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bald</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">курок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bedingt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">условна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bedingungsweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">условна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bei Tage</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чить</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bei Tageslicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">валдова</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bei lebendigem Leibe</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">живстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">beide</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кавонест</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">beinahe</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">цють</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">beispielsweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">примеркс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">beizeiten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">загодь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bereits</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">уш</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bergab</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аловант</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bergan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">веревпандт</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bergauf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">веревпандт</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bergunter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аловант</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">besonders</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">специальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bestimmt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">обязательна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bewaldet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вирев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bis heute</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">течемс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bis jetzt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">семс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bis oben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тыц</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bis zur Weiße</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ашолгадомс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bisher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">семс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bislang</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">семс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bisweilen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лиясто</t> <t pos="Adv">чуродо весть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">blitzartig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёндолкс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">blitzschnell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёндолкс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bloss</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весемезэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">bloß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ансяк</t> <t pos="Adv">голойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">böse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">благойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">da</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">сестэ</t> <t pos="Adv">сесэ</t><t pos="Adv">тия</t> <t pos="Adv">тосо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">daher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">товолдо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dahin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">сезэ</t> <t pos="Adv">тов</t><t pos="Adv">товолов</t> <t pos="Adv">тозонь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">damals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">daneben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бокасо</t> <t pos="Adv">ёжоцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dann</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мейле</t> <t pos="Adv">сестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">den ganzen Tag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">чинь-чоп</t> <t pos="Adv">чоп</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">denn</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ара</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">der Reihe nach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">подряд</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">derlei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">плотнасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dick</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тустосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dieselbe Größe (denselben Wuchs) haben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяшка</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">diszipliniert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">организованна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dort</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">сесэ</t> <t pos="Adv">тозонь</t><t pos="Adv">тосо</t> <t pos="Adv">тува</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dorthin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">сезэ</t> <t pos="Adv">тов</t><t pos="Adv">товолов</t> <t pos="Adv">тозо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">draußen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">венеле</t> <t pos="Adv">ушосо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">durch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пачк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">durch Zufall</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">случайна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">durchaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">решительна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">durcheinander</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">човор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">dürftig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">беднойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">eben (erst)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чияк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ebenfalls</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истя жо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ebenso</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вейкетьстэ</t> <t pos="Adv">истя жо</t> <t pos="Adv">секе ладсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ehrlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">честна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">eigens</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">нарочна</t> <t pos="Adv">специальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ein bißchen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">аламне</t> <t pos="Adv">аламнеде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ein klein wenig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламне</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ein solcher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ein solches</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истямо (истят)</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ein wenig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламнеде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">einigemal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весть-кавксть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">einmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">веенькирда</t> <t pos="Adv">весть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">einmütig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">дружнасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">eins</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">einsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вейкинестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">einstmals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">einträglich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">выгодна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ekelhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">противна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">endlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">окойники</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">eng</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">плотнасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">entgegen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">каршо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">entschieden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">решительна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">entschlossen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">решительна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">entsetzlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ужасна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">erfolgreich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">успешна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">erneut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">одов</t> <t pos="Adv">таго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">erst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ансяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">es kann sein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">паряк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">etwas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламнеде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">etwas ein bißchen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ewig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вечна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">extra</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">специальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fahrlässig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">губол-габол</t> <t pos="Adv">ильцек-пельцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fast</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">цють</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">faul</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нузякссто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">парсте</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fern</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">васоло</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fest</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">кеместэ</t> <t pos="Adv">плотнасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">flink</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бойкасто</t> <t pos="Adv">эрязасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fortwährend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">свал</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">frei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">свободна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">freilich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">freiwillig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">добровольна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">freundlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">лембестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">freundschaftlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">важовсто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">friedlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">спокойна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">frisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бодройстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">frühzeitig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">загодь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">furchtbar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ужасна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fünfmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ветексть</t> <t pos="Adv">ветень кирда</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">fürchterlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ужасна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ganz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">весе</t> <t pos="Adv">допрок</t><t pos="Adv">овсе</t> <t pos="Adv">прянек-пильгенек</t><t pos="Adv">тунь</t> <t pos="Adv">целанек</t> <t pos="Adv">целасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ganz so</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gedehnt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кувакасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gedämpft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">стамбарнэ</t> <t pos="Adv">сэтьместэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gefräßig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ангорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gegen Abend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чопоньпелев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gegeneinander</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">карадо-каршо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gelassen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">спокойна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gelungen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёнсто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gemeinsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вейсэ</t> <t pos="Adv">мирём</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gemeinschaftlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вейс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">genug</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">байтяк</t> <t pos="Adv">сатышка</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">genügend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">байтяк</t> <t pos="Adv">сатышка</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gerade(hin)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">витьстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gestern</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">исяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gesund und munter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">эрязасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gewandt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">эрязасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gierig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ангорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">glatt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">валанясто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gleich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вейкетьстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gleich (mäßig)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ровна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gleichfalls</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истя жо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gleichzeitig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">велувсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gleichzeitig mit D</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вейсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gluckernd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бульдерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">glucksend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бульдерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">glücklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">байдюжа</t> <t pos="Adv">удачнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">glühend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">псистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gratis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">grauenhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ужасна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">größer (als)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">больше</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вадрясто</t> <t pos="Adv">ёнсто</t><t pos="Adv">ладс</t> <t pos="Adv">парсте</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">gänzlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">допрок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">günstig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">байдюжа</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">habsüchtig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ангорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hart</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кеместэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">heil</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">целасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">heiß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">псистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">валдосто</t> <t pos="Adv">манейстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hellklingend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">гайтевстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hernach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мейле</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hervorragend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">отлична</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">herzlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лембестэ</t> <t pos="Adv">седейшкава</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">heute</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">течи</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">heutzutage</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">течи</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hier</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">тезэнь</t> <t pos="Adv">теск</t><t pos="Adv">тесэ</t> <t pos="Adv">тия</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hierher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">тезэнь</t> <t pos="Adv">тей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hin und her</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тей-тов</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hin und wieder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чуродо весть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hin und zurück</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тестэ-тосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hinaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">венелев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hinlänglich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сатышка</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hinreichend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">доволь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hintereinander</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">подряд</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hoch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вере</t> <t pos="Adv">верьга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hungrig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вачодо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">häufig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сеетьстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">höchst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вельть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">höflich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">важовсто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">hörbar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">марямга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ideal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">идеальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im Freien</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">венеле</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im Galopp</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кополсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im Januar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">январьстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im Laufe des Tages</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чинь-чоп</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im Winter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тельня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im ganzen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весемезэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">im vorigen Jahr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мелят</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">immer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вельть</t> <t pos="Adv">пачк</t> <t pos="Adv">свал</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">immer wieder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">секе</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">immerfort</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">свал</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in Eintracht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">дружна</t> <t pos="Adv">дружнасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in Freundschaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">дружна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in Scharen gehen*</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">гурьбом</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in Strömen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лостерьсэ</t> <t pos="Adv">польдерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in aller Frühe</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ашолгадомс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in den Hof</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кардаз ютков</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in der Ferne</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">васоло</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in der Jugend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">одсто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in der Nacht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">веть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in die Flanke (beim Tier)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бокас</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in die Quere</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нучк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in die Seite (beim Menschen)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бокас</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in einer Reihe</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бокасо</t> <t pos="Adv">малацек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in früheren [vergangenen, alten] Zeiten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">седикеле</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in hellen Haufen gehen*</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">гурьбом</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in jungen Jahren</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">одсто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in kleinen Dosen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пенчень-пенч</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">in zwei Hälften</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чачк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">innigst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">седейшкава</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">insgesamt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весемезэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">interessant</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">интересна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">irgendwie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">та-кода</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">irgendwo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">та-косо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">irgendwohin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ков-бути</t> <t pos="Adv">ковгак</t> <t pos="Adv">та-ков</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">jetzt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ней</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">jüngst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чияк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kahl</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">голойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kalt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">якшамо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kaum</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ансяк</t> <t pos="Adv">цють</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kaum-kaum</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">цють-цють</t> <t pos="Adv">эль-эль</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kein einziges Mal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вестькак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">keinmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вестькак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">klar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">валдосто</t> <t pos="Adv">манейстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">klirrend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">гальдерьсэ</t> <t pos="Adv">дирьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kläglich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">жалобнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">knorrig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сардов-сюрдов</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kompetent</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">авторитетнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kopfrunter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">геверьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kopfüber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">геверьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kostenlos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kreuz und quer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">педе-пев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kräftig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">виев</t> <t pos="Adv">виевстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kurz vorher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чияк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kämpfferisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">боевойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kürzlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">улко</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lange</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">зярсыя</t> <t pos="Adv">куватьс</t> <t pos="Adv">умок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lange Zeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">куватьс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">langgezogen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кувакасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">langsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">валкасто</t> <t pos="Adv">састыне</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">langweilig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">скушна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">laut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вайгельсэ</t> <t pos="Adv">верьгавайгельть</t><t pos="Adv">гайтевстэ</t> <t pos="Adv">гальдерьсэ</t> <t pos="Adv">марямга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lebendig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">живстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lebhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бойкасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">leicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">шождасто</t> <t pos="Adv">шождыне</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">leise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">састыне</t> <t pos="Adv">стамбарнэ</t> <t pos="Adv">сэтьместэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">letzten Endes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">окойники</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">licht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">валдосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lichterloh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">гувсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">lose</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лавшосто</t> <t pos="Adv">слабойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">längst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">умок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">löffelweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пенчень-пенч</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">manchmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лиясто</t> <t pos="Adv">шкань-шкань</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">maßgeblich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">авторитетнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mehr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">больше</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mehreremal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весть-кавксть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mehrmals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весть-кавксть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit (gutem) Erfolg</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">успешна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Absicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нарочна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Gepolter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">калдорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Gepolter [mit Gekrach]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">галдорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Hagel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">петерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Knarren</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чикорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Knirschen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сёторсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Krach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">зэрьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Lärm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">грохсо</t> <t pos="Adv">дуборсо</t> <t pos="Adv">зэрьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Murmeln</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">жольсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Ruhe [Erholung]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аштезь-аштезь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mit Unterbrechung</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аштезь-аштезь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mittendurch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чачк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">morgen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ванды</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">munter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бодройстэ</t> <t pos="Adv">эрязасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mutterlos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ававтомо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">möglich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">нать</t> <t pos="Adv">паряк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nach Gewicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весень коряс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nach Hause</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кудов-чив</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nach außen (hin)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">венелев</t> <t pos="Adv">ушов</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nach oben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">верев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nach unten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">алов</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nacheinander</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мельцек</t> <t pos="Adv">пецек</t> <t pos="Adv">подряд</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nachher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мейле</t> <t pos="Adv">мейле</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nachlässig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">губол-габол</t> <t pos="Adv">ильцек-пельцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nachts</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">веть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nackt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">голойстэ</t> <t pos="Adv">кепе-штапо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nah</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">малав</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">naturgemäß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">натуральна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nebenan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вакссо</t> <t pos="Adv">малацек</t> <t pos="Adv">сэрцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nebenbei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ёжоцек</t> <t pos="Adv">сэрцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nebeneinander</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бокасо</t> <t pos="Adv">ёжоцек</t><t pos="Adv">малацек</t> <t pos="Adv">сэрцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">neuerdings</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">улко</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">neulich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чияк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">neunmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вейксэксть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht auf die Dauer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламнес</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht eilig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">валкасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht einmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ламонь кирда</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht für lange</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламнес</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht ohne Grund [Ursache]</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ачавкс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht so viel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аламо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht tief</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">алкинестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nicht umsonst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ачавкс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сроду</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">niemals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сроду</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nirgend(s)wo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ковгак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nirgend(s)wohin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ковгак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nirgends</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ковгак</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">noch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">еще</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nochmals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">одов</t> <t pos="Adv">омбонь кирда</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nur</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ансяк</t> <t pos="Adv">весемезэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nützlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">выгодна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">oben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вере</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">objektive</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">объективна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">offiziell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">официальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">oft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сеетьстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">oft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">секе</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">oftmals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сеетьстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ohne A</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">арайстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ohne Fehler</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">грамотнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ohne Mutter</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ававтомо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ohne Zwang</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">добром</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ordentlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аккуратнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">organisiert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">организованна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">paarweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">парань-парань</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">präzis(e)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">точнасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">punkt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ровна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">quer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нучк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">rasch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">веркасто</t> <t pos="Adv">губол-габол</t><t pos="Adv">ёлдорсо</t> <t pos="Adv">курок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">rational</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">рациональнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">real</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">реальнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">rechtzeitig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">загодь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">redlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">честна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">reichlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">доволь</t> <t pos="Adv">польдерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">rein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ашосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">rein [weiß] blitzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ашолгадомс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">restlos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">целанек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">richtig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">видьстэ</t> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ringsherum</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">перть пельга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ringsum</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">перть пельга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ringsumher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">перть пельга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">rittlings</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ласте</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">roh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">верекстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ruhig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">спокойна</t> <t pos="Adv">стамбарнэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sachliche</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">объективна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schade</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">досадна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schallend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">гайтевстэ</t> <t pos="Adv">гальдерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">scharf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пштистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">scheußlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ужасна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schlampig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ильцек-пельцек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schlecht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">губол-габол</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schließlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">окойники</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schnell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">веркасто</t> <t pos="Adv">губол-габол</t><t pos="Adv">ёлдорсо</t> <t pos="Adv">курок</t> <t pos="Adv">поцорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schnellig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёлдорсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">уш</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schrecklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ужасна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schwach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лавшосто</t> <t pos="Adv">слабойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schwer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">виевстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">schön</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вадрясто</t> <t pos="Adv">ёнсто</t><t pos="Adv">ладс</t> <t pos="Adv">парсте</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sehr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вельть</t> <t pos="Adv">ём</t><t pos="Adv">пачк</t> <t pos="Adv">тунь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sehr langsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пенчень-пенч</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sehr stark strömen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">жойсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">seit jeher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">куватьс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">seitlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бокасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">seitwärts</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бокасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">selbst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мик</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">selten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чуросто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">seltsamerweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">страннойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sicher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">бульчом</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sitzend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">озадо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">so</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">so ein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sofort</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">нейке</t> <t pos="Adv">сразу</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sogar</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мик</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sogleich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сразу</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">solch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">solch ein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sorgfältig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аккуратнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sparsam</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">экономна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">speziell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нарочна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">spezi|ell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">специальна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">spitz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пштистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">später</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мейле</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">später Abend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аштень чокшне</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">stark</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">виев</t> <t pos="Adv">виевстэ</t> <t pos="Adv">кеместэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">starr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пштистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">steil</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">крутасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">stellenweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">таркань-таркань</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">stets</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вельть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">still</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">спокойна</t> <t pos="Adv">стамбарнэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">superl.</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">веседе</t> <t pos="Adv">весемеде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">sämtlich;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">весе</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">süß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тантейстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tag(e) weise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">подённа</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tagaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чить-веть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tagein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чить-веть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tagelang</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чоп</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tags und nachts</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чить-веть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">talentlos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёроктомо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tatsächlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">алкукс</t> <t pos="Adv">прок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tierisch</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">зверькс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">treffend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">удачнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">trocken</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">безобразнойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tropfenweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">повонь пов</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">trotteln vi h::s</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="V">бертьсэ ардомс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">träge</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нузякссто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">täglich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">чиде чис</t> <t pos="Adv">чистэ чис</t> <t pos="Adv">чистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">umgekehrt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мекевланк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">umgsp im Guten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">добром</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">umgsp.traben vi h::s</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="V">бертьсэ ардомс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">umsonst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">зря</t> <t pos="Adv">истяк</t> <t pos="Adv">пустас</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unbedeutend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяконь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unbedingt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">обязательна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unbegabt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёроктомо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unentgeltlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unerwartet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">азовкс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unfähig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ёроктомо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ungebunden</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">свободна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ungefähr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">малав</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ungehindert</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">свободна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ungern</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">амельсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ungezwungen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">свободна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unlängst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">улко</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unmerklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">састыне</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unnöttig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">зря</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unnütz</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">зря</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ало</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unter Vorbehalt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">условна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unter dem Regen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пиземе алга</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unter der Bank</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">аксялга</t> <t pos="Adv">аксяло</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unter die Bank</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аксялов</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unter die Bank hervor</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аксялдо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unter vier Augen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сельмеде сельмс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">untief</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">алкинестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unverletzt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">целасто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unverteilt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">целанек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unverwandt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пштистэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unverzüglich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нейке</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unweit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">малав</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">unwillig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">амельсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">verhageln</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">петерьсэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">verkehrt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ингельде</t> <t pos="Adv">мекевланк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">viel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ламо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">viel zu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чересчур</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">viele Male</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ламоксть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vielleicht</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мабуть</t> <t pos="Adv">нать</t><t pos="Adv">паряк</t> <t pos="Adv">поди</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vielmals</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ламонь кирда</t> <t pos="Adv">ламоксть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vierfach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нилев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">viermal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">нилев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">voll</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тыц</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vollauf</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">доволь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vollständig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">прянек-пильгенек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von Anfang an bis Ende</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">педе-пев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von Tag zu Tag</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">чиде чис</t> <t pos="Adv">чистэ чис</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von Zeit zu Zeit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лиясто</t> <t pos="Adv">чуродо весть</t> <t pos="Adv">шкань-шкань</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von alters her</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">куватьс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von da</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">товолдо</t> <t pos="Adv">тосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von dort</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von dort (her)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">товолдо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von draußen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ушосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von drüben</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von hier (aus)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von langer Hand</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">умок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von neuem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">одов</t> <t pos="Adv">таго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von oben (herab)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">верде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von unten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">алдо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von uralten Zeiten her</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">куватьс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von vorn(e)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икельде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von weitem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">васолдо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">von wo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">коволдо?</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vor</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икелев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vor Anbruch der Dunkenheit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">валдова</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vor Sonnenaufgang</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ашолгадомс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vor kurzem</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">улко</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">voran</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икелев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">voraus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икелев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vorbei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бокава</t> <t pos="Adv">вакска</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vorhin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чияк</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vorn(e)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икельде</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vorteilhaft</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">выгодна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vorwärts</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">икелев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">vorüber</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вакска</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">völlig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">допрок</t> <t pos="Adv">тунь</t> <t pos="Adv">целанек</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">аноксто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wahrhaftig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">честна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wahrscheinlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">бульчом</t> <t pos="Adv">мабуть</t><t pos="Adv">нать</t> <t pos="Adv">паряк</t> <t pos="Adv">поди</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">waldig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вирев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">waldreich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вирев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">warm</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">лембестэ</t> <t pos="Adv">седейшкава</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">warum</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мейс</t> <t pos="Adv">мекс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">watschelnd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">берть-берть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">weit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">васоло</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">weiß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ашосто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">weshalb</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мейс</t> <t pos="Adv">мекс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">weswegen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мейс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">widerwärtig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">противна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">кода</t> <t pos="Adv">ладсо</t> <t pos="Adv">прок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wie Tier</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">зверькс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wieder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мекев</t> <t pos="Adv">одов</t> <t pos="Adv">таго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wild</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">дикойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">winters</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тельня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wirklich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">алкукс</t> <t pos="Adv">прок</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wirklich? wahrhaftig? tatsächlich?</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ара</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wirtschaftlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">экономна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">woher</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">коволдо?</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">woher?</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">коволдо?</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wohin?</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ков</t> <t pos="Adv">ков</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wohl</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">ладс</t> <t pos="Adv">поди</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wohlbehalten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">байдюжа</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wolkenlos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">манейстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wozu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мезекс</t> <t pos="Adv">мейс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">wozu?</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ков</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zeitweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">чуродо весть</t> <t pos="Adv">шкань-шкань</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zirka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">малав</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zischend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">тыж-лаж</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zornig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">благойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">пачк</t> <t pos="Adv">чересчур</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu Berge</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">дубушки</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu Fuß</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ялго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu Pferd(e)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ласте</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu guter Letzt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">окойники</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu sehr</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">каняков</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu viel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">каняков</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu welchem Zweck</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">мезекс</t> <t pos="Adv">мейс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu zwei(en)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кавонест</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zu zweit</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">кавонест</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zueinander</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">карадо-каршо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zuerst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">васня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zufällig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">азовкс</t> <t pos="Adv">случайна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zufälligerweise</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">случайна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zugleich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">велувсо</t> <t pos="Adv">сразу</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zum Beispiel</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">примеркс</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zum zweitenmal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">омбонь кирда</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zur Genüge</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">сатышка</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zurück</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">мекев</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zusammen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Adv">вейс</t> <t pos="Adv">вейсэ</t> <t pos="Adv">човор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zuweilen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">лиясто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zärtlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">лембестэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">zögernd</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">пенчень-пенч</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ähnlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">истямо (истят)</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">änlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">ладсо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ärgerlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">досадна</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ärmlich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">беднойстэ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">überaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вельть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">übermorgen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">вандыде мейле</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">übermäßig</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Adv">чересчур</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="Adv">:</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">петерь-петерь</t>
+       <t pos="Adv">письверек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">Sitz//</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">озадо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">Tag für Tag</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чиде чис</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">abends</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чокшне ланго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">abermals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одов</t>
+       <t pos="Adv">омбонь кирда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">absichtlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нарочна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">absolut,</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ровна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">abstrakt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">абстрактнойстэ</t>
+       <t pos="Adv">отвлечённа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">abwechselnd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">човор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">achtsam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">внимательна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">alle zusammen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мирём</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">allein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейкинестэ</t>
+       <t pos="Adv">весемезэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">allmählich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламонь-аламонь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">allseitig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">домкасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">als</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ладсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">als Externer</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">экстерна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">als ob</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">прок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">als wenn</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">прок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">am Abend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чокшне ланго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">am Februar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">февральстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">am Tage</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">amtlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">официальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">an einem bestimmten Tag</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чистэнзэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">an jener Stelle</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тува</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">analog</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истямо (истят)</t>
+       <t pos="Adv">ладсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">anders</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лиякс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">anfangs</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">васня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">annähernd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">малав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">astig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сардов-сюрдов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истя жо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf den Knien</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пульзядо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf der Straße</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ушосо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf die linke Seite</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ингельде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf diese Weise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf jede Art</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">секе ладсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf kurze Zeit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламнес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf lange (Zeit)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">талайс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auf lettisch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">латышекс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aufmersam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">внимательна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aufs neue</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одов</t>
+       <t pos="Adv">таго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aus (D)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икельде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aus irgendeinem Grund</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мекс-бути</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aus unbestimmten Gründen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мекс-бути</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">aus vollem Halse</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">верьгавайгельть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ausdruckslos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">безобразнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ausgezeichnet</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">отлична</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ausreichend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">байтяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">auswendig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">наизусть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">autoritativ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">авторитетнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bald</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">курок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bedingt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">условна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bedingungsweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">условна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bei Tage</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bei Tageslicht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валдова</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bei lebendigem Leibe</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">живстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">beide</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кавонест</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">beinahe</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">цють</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">beispielsweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">примеркс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">beizeiten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">загодь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bereits</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">уш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bergab</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аловант</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bergan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веревпандт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bergauf</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веревпандт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bergunter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аловант</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">besonders</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">специальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bestimmt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">обязательна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bewaldet</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вирев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bis heute</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">течемс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bis jetzt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">семс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bis oben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тыц</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bis zur Weiße</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ашолгадомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bisher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">семс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bislang</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">семс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bisweilen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лиясто</t>
+       <t pos="Adv">чуродо весть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">blitzartig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёндолкс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">blitzschnell</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёндолкс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bloss</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весемезэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">bloß</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ансяк</t>
+       <t pos="Adv">голойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">böse</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">благойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">da</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сестэ</t>
+       <t pos="Adv">сесэ</t>
+       <t pos="Adv">тия</t>
+       <t pos="Adv">тосо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">daher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">товолдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dahin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сезэ</t>
+       <t pos="Adv">тов</t>
+       <t pos="Adv">товолов</t>
+       <t pos="Adv">тозонь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">damals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">daneben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокасо</t>
+       <t pos="Adv">ёжоцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dann</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейле</t>
+       <t pos="Adv">сестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">den ganzen Tag</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чинь-чоп</t>
+       <t pos="Adv">чоп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">denn</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ара</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">der Reihe nach</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">подряд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">derlei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dicht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">плотнасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dick</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тустосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dieselbe Größe (denselben Wuchs) haben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяшка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">diszipliniert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">организованна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dort</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сесэ</t>
+       <t pos="Adv">тозонь</t>
+       <t pos="Adv">тосо</t>
+       <t pos="Adv">тува</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dorthin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сезэ</t>
+       <t pos="Adv">тов</t>
+       <t pos="Adv">товолов</t>
+       <t pos="Adv">тозо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">draußen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">венеле</t>
+       <t pos="Adv">ушосо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">durch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пачк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">durch Zufall</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">случайна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">durchaus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">решительна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">durcheinander</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">човор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">dürftig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">беднойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">eben (erst)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чияк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ebenfalls</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истя жо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ebenso</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейкетьстэ</t>
+       <t pos="Adv">истя жо</t>
+       <t pos="Adv">секе ладсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ehrlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">честна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">eigens</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нарочна</t>
+       <t pos="Adv">специальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ein bißchen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламне</t>
+       <t pos="Adv">аламнеде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ein klein wenig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ein solcher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ein solches</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истямо (истят)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ein wenig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламнеде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">einigemal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весть-кавксть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">einmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веенькирда</t>
+       <t pos="Adv">весть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">einmütig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">дружнасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">eins</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">einsam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейкинестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">einstmals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">einträglich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">выгодна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ekelhaft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">противна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">endlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">окойники</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">eng</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">плотнасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">entgegen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">каршо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">entschieden</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">решительна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">entschlossen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">решительна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">entsetzlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ужасна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">erfolgreich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">успешна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">erneut</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одов</t>
+       <t pos="Adv">таго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">erst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ансяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">es kann sein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">паряк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">etwas</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламнеде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">etwas ein bißchen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ewig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вечна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">extra</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">специальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fahrlässig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">губол-габол</t>
+       <t pos="Adv">ильцек-пельцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fast</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">цють</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">faul</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нузякссто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">парсте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fern</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">васоло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fest</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кеместэ</t>
+       <t pos="Adv">плотнасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">flink</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бойкасто</t>
+       <t pos="Adv">эрязасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fortwährend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">свал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">frei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">свободна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">freilich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">freiwillig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">добровольна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">freundlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лембестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">freundschaftlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">важовсто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">friedlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">спокойна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">frisch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бодройстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">frühzeitig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">загодь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">furchtbar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ужасна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fünfmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ветексть</t>
+       <t pos="Adv">ветень кирда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">fürchterlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ужасна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ganz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весе</t>
+       <t pos="Adv">допрок</t>
+       <t pos="Adv">овсе</t>
+       <t pos="Adv">прянек-пильгенек</t>
+       <t pos="Adv">тунь</t>
+       <t pos="Adv">целанек</t>
+       <t pos="Adv">целасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ganz so</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gedehnt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кувакасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gedämpft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">стамбарнэ</t>
+       <t pos="Adv">сэтьместэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gefräßig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ангорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gegen Abend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чопоньпелев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gegeneinander</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">карадо-каршо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gelassen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">спокойна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gelungen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёнсто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gemeinsam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейсэ</t>
+       <t pos="Adv">мирём</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gemeinschaftlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">genug</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">байтяк</t>
+       <t pos="Adv">сатышка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">genügend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">байтяк</t>
+       <t pos="Adv">сатышка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gerade(hin)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">витьстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gestern</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">исяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gesund und munter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">эрязасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gewandt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">эрязасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gierig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ангорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">glatt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валанясто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gleich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейкетьстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gleich (mäßig)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ровна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gleichfalls</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истя жо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gleichzeitig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">велувсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gleichzeitig mit D</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gluckernd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бульдерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">glucksend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бульдерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">glücklich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">байдюжа</t>
+       <t pos="Adv">удачнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">glühend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">псистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gratis</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">grauenhaft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ужасна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">größer (als)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">больше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gut</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вадрясто</t>
+       <t pos="Adv">ёнсто</t>
+       <t pos="Adv">ладс</t>
+       <t pos="Adv">парсте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">gänzlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">допрок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">günstig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">байдюжа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">habsüchtig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ангорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hart</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кеместэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">heil</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">целасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">heiß</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">псистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hell</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валдосто</t>
+       <t pos="Adv">манейстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hellklingend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">гайтевстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hernach</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hervorragend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">отлична</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">herzlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лембестэ</t>
+       <t pos="Adv">седейшкава</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">heute</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">течи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">heutzutage</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">течи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hier</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тезэнь</t>
+       <t pos="Adv">теск</t>
+       <t pos="Adv">тесэ</t>
+       <t pos="Adv">тия</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hierher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тезэнь</t>
+       <t pos="Adv">тей</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hin und her</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тей-тов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hin und wieder</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чуродо весть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hin und zurück</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тестэ-тосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hinaus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">венелев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hinlänglich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сатышка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hinreichend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">доволь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hintereinander</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">подряд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hoch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вере</t>
+       <t pos="Adv">верьга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hungrig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вачодо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">häufig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сеетьстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">höchst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вельть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">höflich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">важовсто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">hörbar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">марямга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ideal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">идеальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im Freien</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">венеле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im Galopp</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кополсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im Januar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">январьстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im Laufe des Tages</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чинь-чоп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im Winter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тельня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im ganzen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весемезэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">im vorigen Jahr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мелят</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">immer</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вельть</t>
+       <t pos="Adv">пачк</t>
+       <t pos="Adv">свал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">immer wieder</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">секе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">immerfort</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">свал</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in Eintracht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">дружна</t>
+       <t pos="Adv">дружнасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in Freundschaft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">дружна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in Scharen gehen*</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">гурьбом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in Strömen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лостерьсэ</t>
+       <t pos="Adv">польдерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in aller Frühe</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ашолгадомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in den Hof</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кардаз ютков</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in der Ferne</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">васоло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in der Jugend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одсто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in der Nacht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in die Flanke (beim Tier)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in die Quere</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нучк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in die Seite (beim Menschen)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in einer Reihe</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокасо</t>
+       <t pos="Adv">малацек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in früheren [vergangenen, alten] Zeiten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">седикеле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in hellen Haufen gehen*</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">гурьбом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in jungen Jahren</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одсто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in kleinen Dosen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пенчень-пенч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">in zwei Hälften</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чачк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">innigst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">седейшкава</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">insgesamt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весемезэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">interessant</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">интересна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">irgendwie</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">та-кода</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">irgendwo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">та-косо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">irgendwohin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ков-бути</t>
+       <t pos="Adv">ковгак</t>
+       <t pos="Adv">та-ков</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">jetzt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ней</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">jüngst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чияк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kahl</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">голойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kalt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">якшамо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kaum</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ансяк</t>
+       <t pos="Adv">цють</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kaum-kaum</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">цють-цють</t>
+       <t pos="Adv">эль-эль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kein einziges Mal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вестькак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">keinmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вестькак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">klar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валдосто</t>
+       <t pos="Adv">манейстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">klirrend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">гальдерьсэ</t>
+       <t pos="Adv">дирьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kläglich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">жалобнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">knorrig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сардов-сюрдов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kompetent</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">авторитетнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kopfrunter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">геверьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kopfüber</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">геверьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kostenlos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kreuz und quer</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">педе-пев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kräftig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">виев</t>
+       <t pos="Adv">виевстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kurz vorher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чияк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kämpfferisch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">боевойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">kürzlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">улко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">lange</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зярсыя</t>
+       <t pos="Adv">куватьс</t>
+       <t pos="Adv">умок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">lange Zeit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">куватьс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">langgezogen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кувакасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">langsam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валкасто</t>
+       <t pos="Adv">састыне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">langweilig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">скушна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">laut</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вайгельсэ</t>
+       <t pos="Adv">верьгавайгельть</t>
+       <t pos="Adv">гайтевстэ</t>
+       <t pos="Adv">гальдерьсэ</t>
+       <t pos="Adv">марямга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">lebendig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">живстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">lebhaft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бойкасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">leicht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">шождасто</t>
+       <t pos="Adv">шождынестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">leise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">састыне</t>
+       <t pos="Adv">стамбарнэ</t>
+       <t pos="Adv">сэтьместэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">letzten Endes</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">окойники</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">licht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валдосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">lichterloh</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">гувсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">lose</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лавшосто</t>
+       <t pos="Adv">слабойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">längst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">умок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">löffelweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пенчень-пенч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">manchmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лиясто</t>
+       <t pos="Adv">шкань-шкань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">maßgeblich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">авторитетнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mehr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">больше</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mehreremal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весть-кавксть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mehrmals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весть-кавксть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit (gutem) Erfolg</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">успешна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Absicht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нарочна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Gepolter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">калдорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Gepolter [mit Gekrach]</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">галдорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Hagel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">петерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Knarren</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чикорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Knirschen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сёторсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Krach</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зэрьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Lärm</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">грохсо</t>
+       <t pos="Adv">дуборсо</t>
+       <t pos="Adv">зэрьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Murmeln</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">жольсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Ruhe [Erholung]</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аштезь-аштезь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mit Unterbrechung</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аштезь-аштезь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mittendurch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чачк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">morgen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ванды</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">munter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бодройстэ</t>
+       <t pos="Adv">эрязасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">mutterlos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ававтомо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">möglich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нать</t>
+       <t pos="Adv">паряк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nach Gewicht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весень коряс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nach Hause</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кудов-чив</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nach außen (hin)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">венелев</t>
+       <t pos="Adv">ушов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nach oben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">верев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nach unten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">алов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nacheinander</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мельцек</t>
+       <t pos="Adv">пецек</t>
+       <t pos="Adv">подряд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nachher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nachlässig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">губол-габол</t>
+       <t pos="Adv">ильцек-пельцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nachts</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nackt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">голойстэ</t>
+       <t pos="Adv">кепе-штапо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nah</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">малав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">naturgemäß</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">натуральна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nebenan</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вакссо</t>
+       <t pos="Adv">малацек</t>
+       <t pos="Adv">сэрцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nebenbei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёжоцек</t>
+       <t pos="Adv">сэрцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nebeneinander</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокасо</t>
+       <t pos="Adv">ёжоцек</t>
+       <t pos="Adv">малацек</t>
+       <t pos="Adv">сэрцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">neuerdings</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">улко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">neulich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чияк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">neunmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейксэксть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht auf die Dauer</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламнес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht eilig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валкасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht einmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ламонь кирда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht für lange</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламнес</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht ohne Grund [Ursache]</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ачавкс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht so viel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аламо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht tief</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">алкинестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nicht umsonst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ачавкс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nie</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сроду</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">niemals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сроду</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nirgend(s)wo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ковгак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nirgend(s)wohin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ковгак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nirgends</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ковгак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">noch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">еще</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nochmals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одов</t>
+       <t pos="Adv">омбонь кирда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nur</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ансяк</t>
+       <t pos="Adv">весемезэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">nützlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">выгодна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">oben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вере</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">objektive</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">объективна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">offiziell</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">официальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">oft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сеетьстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">oft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">секе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">oftmals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сеетьстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ohne A</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">арайстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ohne Fehler</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">грамотнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ohne Mutter</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ававтомо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ohne Zwang</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">добром</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ordentlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аккуратнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">organisiert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">организованна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">paarweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">парань-парань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">präzis(e)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">точнасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">punkt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ровна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">quer</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нучк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">rasch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веркасто</t>
+       <t pos="Adv">губол-габол</t>
+       <t pos="Adv">ёлдорсо</t>
+       <t pos="Adv">курок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">rational</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">рациональнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">real</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">реальнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">rechtzeitig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">загодь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">redlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">честна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">reichlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">доволь</t>
+       <t pos="Adv">польдерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">rein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ашосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">rein [weiß] blitzend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ашолгадомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">restlos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">целанек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">richtig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">видьстэ</t>
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ringsherum</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">перть пельга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ringsum</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">перть пельга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ringsumher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">перть пельга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">rittlings</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ласте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">roh</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">верекстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ruhig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">спокойна</t>
+       <t pos="Adv">стамбарнэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sachliche</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">объективна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schade</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">досадна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schallend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">гайтевстэ</t>
+       <t pos="Adv">гальдерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">scharf</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пштистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">scheußlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ужасна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schlampig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ильцек-пельцек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schlecht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">губол-габол</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schließlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">окойники</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schnell</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веркасто</t>
+       <t pos="Adv">губол-габол</t>
+       <t pos="Adv">ёлдорсо</t>
+       <t pos="Adv">курок</t>
+       <t pos="Adv">поцорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schnellig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёлдорсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schon</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">уш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schrecklich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ужасна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schwach</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лавшосто</t>
+       <t pos="Adv">слабойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schwer</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">виевстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">schön</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вадрясто</t>
+       <t pos="Adv">ёнсто</t>
+       <t pos="Adv">ладс</t>
+       <t pos="Adv">парсте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sehr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вельть</t>
+       <t pos="Adv">ём</t>
+       <t pos="Adv">пачк</t>
+       <t pos="Adv">тунь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sehr langsam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пенчень-пенч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sehr stark strömen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">жойсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">seit jeher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">куватьс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">seitlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">seitwärts</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">selbst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">selten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чуросто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">seltsamerweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">страннойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sicher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бульчом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sitzend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">озадо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">so</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">so ein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sofort</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нейке</t>
+       <t pos="Adv">сразу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sogar</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sogleich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сразу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">solch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">solch ein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sorgfältig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аккуратнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sparsam</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">экономна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">speziell</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нарочна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">spezi|ell</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">специальна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">spitz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пштистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">später</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">später Abend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аштень чокшне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">stark</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">виев</t>
+       <t pos="Adv">виевстэ</t>
+       <t pos="Adv">кеместэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">starr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пштистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">steil</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">крутасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">stellenweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">таркань-таркань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">stets</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вельть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">still</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">спокойна</t>
+       <t pos="Adv">стамбарнэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">superl.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">веседе</t>
+       <t pos="Adv">весемеде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">sämtlich;</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">весе</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">süß</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тантейстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tag(e) weise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">подённа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tagaus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чить-веть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tagein</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чить-веть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tagelang</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чоп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tags und nachts</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чить-веть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">talentlos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёроктомо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tatsächlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">алкукс</t>
+       <t pos="Adv">прок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tierisch</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зверькс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">treffend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">удачнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">trocken</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">безобразнойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">tropfenweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">повонь пов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">trotteln vi h::s</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="V">бертьсэ ардомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">träge</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нузякссто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">täglich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чиде чис</t>
+       <t pos="Adv">чистэ чис</t>
+       <t pos="Adv">чистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">umgekehrt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мекевланк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">umgsp im Guten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">добром</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">umgsp.traben vi h::s</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="V">бертьсэ ардомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">umsonst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зря</t>
+       <t pos="Adv">истяк</t>
+       <t pos="Adv">пустас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unbedeutend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяконь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unbedingt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">обязательна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unbegabt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёроктомо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unentgeltlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unerwartet</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">азовкс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unfähig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ёроктомо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ungebunden</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">свободна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ungefähr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">малав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ungehindert</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">свободна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ungern</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">амельсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ungezwungen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">свободна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unlängst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">улко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unmerklich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">састыне</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unnöttig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зря</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unnütz</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зря</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unter Vorbehalt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">условна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unter dem Regen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пиземе алга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unter der Bank</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аксялга</t>
+       <t pos="Adv">аксяло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unter die Bank</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аксялов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unter die Bank hervor</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аксялдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unter vier Augen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сельмеде сельмс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">untief</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">алкинестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unverletzt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">целасто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unverteilt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">целанек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unverwandt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пштистэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unverzüglich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нейке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unweit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">малав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">unwillig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">амельсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">verhageln</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">петерьсэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">verkehrt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ингельде</t>
+       <t pos="Adv">мекевланк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">viel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ламо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">viel zu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чересчур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">viele Male</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ламоксть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vielleicht</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мабуть</t>
+       <t pos="Adv">нать</t>
+       <t pos="Adv">паряк</t>
+       <t pos="Adv">поди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vielmals</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ламонь кирда</t>
+       <t pos="Adv">ламоксть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vierfach</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нилев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">viermal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нилев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">voll</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тыц</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vollauf</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">доволь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vollständig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">прянек-пильгенек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von Anfang an bis Ende</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">педе-пев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von Tag zu Tag</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чиде чис</t>
+       <t pos="Adv">чистэ чис</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von Zeit zu Zeit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лиясто</t>
+       <t pos="Adv">чуродо весть</t>
+       <t pos="Adv">шкань-шкань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von alters her</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">куватьс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von da</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">товолдо</t>
+       <t pos="Adv">тосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von dort</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von dort (her)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">товолдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von draußen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ушосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von drüben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von hier (aus)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von langer Hand</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">умок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von neuem</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">одов</t>
+       <t pos="Adv">таго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von oben (herab)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">верде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von unten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">алдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von uralten Zeiten her</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">куватьс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von vorn(e)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икельде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von weitem</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">васолдо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">von wo</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">коволдо?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vor</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икелев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vor Anbruch der Dunkenheit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">валдова</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vor Sonnenaufgang</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ашолгадомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vor kurzem</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">улко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">voran</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икелев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">voraus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икелев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vorbei</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бокава</t>
+       <t pos="Adv">вакска</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vorhin</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чияк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vorn(e)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икельде</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vorteilhaft</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">выгодна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vorwärts</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">икелев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">vorüber</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вакска</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">völlig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">допрок</t>
+       <t pos="Adv">тунь</t>
+       <t pos="Adv">целанек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wach</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">аноксто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wahrhaftig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">честна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wahrscheinlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">бульчом</t>
+       <t pos="Adv">мабуть</t>
+       <t pos="Adv">нать</t>
+       <t pos="Adv">паряк</t>
+       <t pos="Adv">поди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">waldig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вирев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">waldreich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вирев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">warm</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лембестэ</t>
+       <t pos="Adv">седейшкава</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">warum</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейс</t>
+       <t pos="Adv">мекс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">watschelnd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">берть-берть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">weit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">васоло</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">weiß</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ашосто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">weshalb</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейс</t>
+       <t pos="Adv">мекс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">weswegen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мейс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">widerwärtig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">противна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wie</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кода</t>
+       <t pos="Adv">ладсо</t>
+       <t pos="Adv">прок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wie Tier</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зверькс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wieder</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мекев</t>
+       <t pos="Adv">одов</t>
+       <t pos="Adv">таго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wild</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">дикойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">winters</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тельня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wirklich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">алкукс</t>
+       <t pos="Adv">прок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wirklich? wahrhaftig? tatsächlich?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ара</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wirtschaftlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">экономна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">woher</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">коволдо?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">woher?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">коволдо?</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wohin?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ков</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wohl</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ладс</t>
+       <t pos="Adv">поди</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wohlbehalten</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">байдюжа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wolkenlos</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">манейстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wozu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мезекс</t>
+       <t pos="Adv">мейс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">wozu?</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ков</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zeitweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чуродо весть</t>
+       <t pos="Adv">шкань-шкань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zirka</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">малав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zischend</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">тыж-лаж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zornig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">благойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пачк</t>
+       <t pos="Adv">чересчур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu Berge</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">дубушки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu Fuß</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ялго</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu Pferd(e)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ласте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu guter Letzt</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">окойники</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu sehr</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">каняков</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu viel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">каняков</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu welchem Zweck</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мезекс</t>
+       <t pos="Adv">мейс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu zwei(en)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кавонест</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zu zweit</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">кавонест</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zueinander</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">карадо-каршо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zuerst</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">васня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zufällig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">азовкс</t>
+       <t pos="Adv">случайна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zufälligerweise</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">случайна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zugleich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">велувсо</t>
+       <t pos="Adv">сразу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zum Beispiel</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">примеркс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zum zweitenmal</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">омбонь кирда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zur Genüge</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">сатышка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zurück</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">мекев</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zusammen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вейс</t>
+       <t pos="Adv">вейсэ</t>
+       <t pos="Adv">човор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zuweilen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лиясто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zärtlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">лембестэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">zögernd</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">пенчень-пенч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ähnlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">истямо (истят)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">änlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ладсо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ärgerlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">досадна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ärmlich</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">беднойстэ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">überaus</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вельть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">übermorgen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">вандыде мейле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">übermäßig</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="Adv">чересчур</t>
+     </tg>
+   </mg>
+</e>
 </r>
