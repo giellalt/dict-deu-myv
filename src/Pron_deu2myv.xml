@@ -40,7 +40,7 @@
 <e> <lg> <l pos="A">irgendein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="A">та-кодамо</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">irgendein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">мезень-бути</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">jeder</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эрьва</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">jemand;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">та-ки</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">jemand</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">та-ки</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">jene</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">нетне</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">jener</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Pron">секе</t> <t pos="Pron">тона</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">mich</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">эсень</t> </tg> </mg> </e>
@@ -57,6 +57,6 @@
 <e> <lg> <l pos="Pron">wir</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">минь</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">wir allein</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">ськамонок</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">wir selbst</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">минсь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">über alle;</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">веседе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">über alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">веседе</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pron">über alles (alle)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Pron">весемеде</t> </tg> </mg> </e>
 </r>
