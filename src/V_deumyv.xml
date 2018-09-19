@@ -13,20 +13,7 @@
 
 <e>
    <lg>
-     <l pos="V">:</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="myv">
-       <t pos="V">валакавтомс</t>
-       <t pos="V" range="umgsp.">угориямс</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V" val="TV">: 1) gründen</l>
+     <l pos="V" val="TV">gründen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -18060,7 +18047,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">forcieren [- ΄si:-]</l>
+     <l pos="V" val="TV">forcieren</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -18355,7 +18342,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">frohen [guten] Muten sein</l>
+     <l pos="V">frohen Muten sein</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -18444,7 +18431,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">fähig [begabt] sein (etw.) zu tun</l>
+     <l pos="V">fähig sein etwas zu tun</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -18772,7 +18759,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="IV">gebraten [geröstet] sein</l>
+     <l pos="V" val="IV">gebraten sein</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -19059,7 +19046,19 @@
 </e>
 <e>
    <lg>
-     <l pos="V">gekocht sein* [werden*]</l>
+     <l pos="V">gekocht werden</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="V">пиемс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">gekocht sein</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -21412,7 +21411,7 @@
    </lg>
    <mg>
      <tg xml:lang="myv">
-       <t pos="V" val="">ёзмолсо: ёзмолсо ютамс</t>
+       <t pos="V" val="">ёзмолсо ютамс</t>
      </tg>
    </mg>
 </e>
@@ -22852,7 +22851,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">improvisieren [-vi-]</l>
+     <l pos="V" val="TV">improvisieren</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -23782,7 +23781,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">inventarisieren [-vεn-]</l>
+     <l pos="V" val="TV">inventarisieren</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -23854,7 +23853,19 @@
 </e>
 <e>
    <lg>
-     <l pos="V">j-m Klapse geben* [verabreichen]</l>
+     <l pos="V">j-m Klapse geben</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="V">ципаемс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">j-m verabreichen</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -25249,7 +25260,7 @@
    </lg>
    <mg>
      <tg xml:lang="myv">
-       <t pos="V">луп-лап: луп-лап ютамс</t>
+       <t pos="V">луп-лап ютамс</t>
      </tg>
    </mg>
 </e>
@@ -25889,7 +25900,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">konservieren [-vi-]</l>
+     <l pos="V" val="TV">konservieren</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -27018,7 +27029,7 @@
    </lg>
    <mg>
      <tg xml:lang="myv">
-       <t pos="V">иксэ: иксэ авардемс</t>
+       <t pos="V">иксэ авардемс</t>
      </tg>
    </mg>
 </e>
@@ -29978,7 +29989,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">nivellieren [-vε-]</l>
+     <l pos="V" val="TV">nivellieren</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -30063,7 +30074,19 @@
 </e>
 <e>
    <lg>
-     <l pos="V">nähen lassen* [zu nähen bitten*]</l>
+     <l pos="V">nähen lassen</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="myv">
+       <t pos="V">ставтомс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">zu nähen bitten</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -31556,7 +31579,7 @@
    </lg>
    <mg>
      <tg xml:lang="myv">
-       <t pos="V">ёмболк: ёмболк варштамс</t>
+       <t pos="V">ёмболк варштамс</t>
      </tg>
    </mg>
 </e>
@@ -47045,7 +47068,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" val="TV">vari:ieren [va-]</l>
+     <l pos="V" val="TV">variieren</l>
      <stg> <st/>
      </stg>
    </lg>

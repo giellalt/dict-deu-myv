@@ -9,34 +9,34 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
 
-<e> <lg> <l pos="Interj">Ei, ei! Ach! Oh! Wie schade!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">вай</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Geh!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">азë!</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Gehe! Komm!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">адя</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Gehen wir! Kommen wir!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">адядо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Geht! Gehen Sie!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">азëдо!</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Gruß! Grüß dich!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">сюк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Ei, ei%! Ach%! Oh%! Wie schade%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">вай</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Geh%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">азë%!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Gehe%! Komm%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">адя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Gehen wir%! Kommen wir%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">адядо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Geht%! Gehen Sie%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">азëдо%!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Gruß%! Grüß dich%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">сюк</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">Knall</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цят</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">Knirschen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цят</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Warte!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ужо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">Warten Sie! Wartet!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ужодо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Warte%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ужо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">Warten Sie%! Wartet%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ужодо</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">a</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">а</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">ach</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">а</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ach! ah! ach! ah!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ах</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ach! uff!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ух</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">aha! ja!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ага</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">bumm!, peng!, plumps!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">бах</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">bums!, bauz!, pardauz!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">бац</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ach%! ah%! ach%! ah%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ах</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ach%! uff%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ух</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">aha%! ja%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">bumm%!, peng%!, plumps%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">бах</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">bums%!, bauz%!, pardauz%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">бац</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">fort, weg</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">кшу</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">gehe mal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">аська</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">genug, genügend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">пандя</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">ha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">а</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">ho! ha!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ау</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">hurra!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ура</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">klatsch!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цят</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">plums!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цят</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">knicks! knacks!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цятор</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ho%! ha%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ау</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hurra%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ура</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">klatsch%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">plums%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">knicks%! knacks%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цятор</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">knirschend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цётор-цятор</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">krach!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цяр</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">krach%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">цяр</t> </tg> </mg> </e>
 <e> <lg> <l pos="">lautnachamend</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Interj">ций</t> <t pos="Interj">ций-буй</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">mal</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">ярь</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">mit Geknister</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"><t pos="Interj">цютор-цятор</t> <t pos="Interj">цётор-цятор</t> </tg> </mg> </e>
@@ -47,5 +47,5 @@
 <e> <lg> <l pos="Interj">na, nun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">эрде</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">wohl</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">эрь</t> </tg> </mg> </e>
 <e> <lg> <l pos="Interj">wohlan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">эрь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Interj">los!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">los%!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="myv"> <t pos="Interj">эрь</t> </tg> </mg> </e>
 </r>

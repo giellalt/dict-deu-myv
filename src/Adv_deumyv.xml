@@ -13,19 +13,6 @@
 
 <e>
    <lg>
-     <l pos="Adv">:</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="myv">
-       <t pos="Adv">петерь-петерь</t>
-       <t pos="Adv">письверек</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">Sitz//</l>
      <stg> <st/>
      </stg>
@@ -5329,18 +5316,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V">trotteln vi h::s</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="myv">
-       <t pos="V">бертьсэ ардомс</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">träge</l>
      <stg> <st/>
      </stg>
@@ -5386,18 +5361,6 @@
    <mg>
      <tg xml:lang="myv">
        <t pos="Adv">добром</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">umgsp.traben vi h::s</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="myv">
-       <t pos="V">бертьсэ ардомс</t>
      </tg>
    </mg>
 </e>
